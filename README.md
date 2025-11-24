@@ -21,7 +21,7 @@
 
 ## About Me
 
-- I love learning and exploring different domains. The brainstorms are endless!
+- I love learning and exploring different domains. The brainstorms are endless when I want to build something I wish existed!
 - Currently working on **Deepfake Detection System (since 2025), Expiry Date Management System (since 2024)**
 - Learning **Full Stack Development + Kotlin, Generative AI**
 - As I prepare for my placements, I'm also working on two research papers!
@@ -128,6 +128,5 @@
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=krithika-va&theme=default" />
 </p>
 
----
 
-<p align="center">Thanks for visiting!</p>
+<p align="center">We build our future, not with dreams, but with choices.</p>
