@@ -13,7 +13,7 @@
   <img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="380">
 </p>
 
-<h3 align="center">CCE Undergrad • ML Enthusiast • App & Full Stack Learner</h3>
+<h3 align="center">CCE Undergrad • ML Enthusiast • Devops & Full Stack Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krithika-va&label=Profile+Views&color=4A90E2&style=flat" />
@@ -22,8 +22,8 @@
 ## About Me
 
 - I love learning and exploring different domains. The brainstorms are endless when I want to build something I wish existed!
-- Currently working on **Deepfake Detection System (since 2025), Expiry Date Management System (since 2024)**
-- Learning **Full Stack Development + Kotlin, Generative AI**
+- Currently working on **Deepfake Detection System (since 2025), Expiry Date Management System (since 2024), Automatic Hydroponic System (since 2025), Circuit2Sketch (since 2025)**
+- Learning **Full Stack Development, AWS Cloud Architect, Devops Generative AI**
 - As I prepare for my placements, I'm also working on two research papers!
 - Email: **krithivrajan@gmail.com**
 
