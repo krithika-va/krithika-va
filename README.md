@@ -116,17 +116,23 @@
 
 # GitHub Stats
 
+<h2 align="center">GitHub Stats</h2>
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithika-va&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithika-va&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=krithika-va&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krithika-va&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=krithika-va&theme=default" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=krithika-va&theme=default&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <i>"We build our future, not with dreams, but with choices."</i>
 </p>
 
 
-<p align="center">We build our future, not with dreams, but with choices.</p>
+
