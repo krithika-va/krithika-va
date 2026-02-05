@@ -23,7 +23,7 @@
 
 - I love learning and exploring different domains. The brainstorms are endless when I want to build something I wish existed!
 - Currently working on **Deepfake Detection System (since 2025), Expiry Date Management System (since 2024), Automatic Hydroponic System (since 2025), Circuit2Sketch (since 2025)**
-- Learning **Full Stack Development, AWS Cloud Architect, Devops Generative AI**
+- Learning **Full Stack Development, AWS Cloud Architect, Devops, Generative AI**
 - As I prepare for my placements, I'm also working on two research papers!
 - Email: **krithivrajan@gmail.com**
 
