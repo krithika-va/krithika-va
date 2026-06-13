@@ -1,6 +1,3 @@
-<!-- ======================= -->
-<!-- Modern Minimal README   -->
-<!-- ======================= -->
 
 <!-- Intro Banner -->
 <h1 align="center">
@@ -22,7 +19,7 @@
 ## About Me
 
 - I love learning and exploring different domains. The brainstorms are endless when I want to build something I wish existed!
-- Currently working on **Deepfake Detection System (since 2025), Expiry Date Management System (since 2024)**
+- Currently working on **TV Show Tracker, Deepfake Detection System (since 2025), Expiry Date Management System (since 2024)**
 - Learning **Full Stack Development**
 - As I prepare for my placements, I'm also working on two research papers!
 - Email: **krithivrajan@gmail.com**
@@ -93,7 +90,7 @@
 | Category | Skills |
 |---------|--------|
 | **Programming** | Python, Java, C, C++, Assembly, Embedded C |
-| **Web Dev** | HTML, CSS, Flask |
+| **Web Dev** | HTML, CSS, Flask, Javascript |
 | **ML / Data** | NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV |
 | **Cloud** | AWS, Azure |
 | **Databases** | MySQL |
@@ -131,7 +128,7 @@
 </p>
 
 <p align="center">
-  <i>"We build our future, not with dreams, but with choices."</i>
+  <i>"We build our future not with dreams, but with choices."</i>
 </p>
 
 
